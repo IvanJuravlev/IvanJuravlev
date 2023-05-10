@@ -1,16 +1,26 @@
 ### Hi there 👋
+My name is Ivan and I'm Java developer :man_technologist:
 
-<!--
-**IvanJuravlev/IvanJuravlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  📫  How to reach me: <a href='mailto:IvanJuravlev2014@gmail.com'>IvanJuravlev2014@gmail.com</a>
+  <div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ivan-juravlev-95b030259/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[your-telegram-URL](https://t.me/IvanJuravlev)">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Stack
+*   Java
+*   SQL, H2, PostgreSQL
+*   Spring Framework, Spring Boot, Spring Data Jpa, Spring JDBC template, Spring Test
+*   Hibernate, JDBC
+*   Git
+*   Maven
+*   Postman, Insomnia
+*   Project Lombok
+*   JUnit, Mockito
+*   Docker
+
